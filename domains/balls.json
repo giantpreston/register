@@ -1,0 +1,9 @@
+{
+  "subdomain": "balls",
+  "owner": {
+    "username": "giantpreston"
+  },
+  "record": {
+    "CNAME": "your-github-pages-site-url"
+  }
+}
